@@ -61,7 +61,7 @@
 阴道镜拍摄的图片如下图所示：      
 ![阴道镜图片](./image/colorscope.png)  
 对阴道镜拍摄的图片用UNet网络提取宫颈部位，得到的宫颈图片如下：  
-![宫颈图片](./image/cervi.jpg)
+![宫颈图片](./image/cervix.jpg)
 
 测试集上部分阴道镜图片提取结果：
 ![宫颈图片](./image/preview.jpg)
